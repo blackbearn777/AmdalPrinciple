@@ -1,0 +1,17 @@
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\bin\Debug\AmdalPrinciple.exe.config
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\bin\Debug\AmdalPrinciple.exe
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\bin\Debug\AmdalPrinciple.pdb
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\MainWindow.g.cs
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\App.g.cs
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple_MarkupCompile.cache
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple_MarkupCompile.lref
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\MainWindow.baml
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple.g.resources
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple.Properties.Resources.resources
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple.csproj.GenerateResource.cache
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple.exe
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple.pdb
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\bin\Debug\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple.csproj.CopyComplete
+C:\Users\BlackbearnPC\source\repos\AmdalPrinciple\AmdalPrinciple\obj\Debug\AmdalPrinciple.csproj.AssemblyReference.cache
